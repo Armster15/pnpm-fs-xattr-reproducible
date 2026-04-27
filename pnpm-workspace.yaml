@@ -1,0 +1,3 @@
+engineStrict: true
+supportedArchitectures:
+  os: [linux, current]
